@@ -17,5 +17,8 @@ I read a number of research papers and did some hands-on work in the area of Fed
 5. Concrete ML by Zama - Machine Learning on FHE Encrypted Data (https://www.youtube.com/watch?v=DP_4OBNf3WY)
 6. Efficient Pruning for Machine Learning under Homomorphic Encryption (https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption)
 7. Zero-Knowledge Proofs for Verfiable FHE (https://blog.sunscreen.tech/snarks-shortcomings/)
+8. Randomized Aggregatable Privacy-Preserving Ordinal Response - RAPPOR protects individual privacy by adding noise to individual data before combining them for analytics. (https://arxiv.org/pdf/1407.6981)
+9. Privacy Preserving RAG (http://arxiv.org/pdf/2412.04697)
+10. Privacy Preserving AI Lecture by Andrew Trask, OpenMined (https://youtu.be/4zrU54VIK6k?feature=shared)
    
    
