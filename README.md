@@ -9,7 +9,7 @@ The main points include
 
 
 # Participated in the OpenMined #30DaysOfFLCode Challenge (finished 16th Jan, 2025)
-I read research papers and did some hands-on work in the area of Federated Learning and Privacy-Enhancing Technologies (PETs) for 30 consecutive days. Major topics included
+I read some research papers and did some hands-on work in the area of Federated Learning and Privacy-Enhancing Technologies (PETs) for 30 consecutive days. Major topics included
 1. Enhancing User Consent in Federated Learning (https://ieeexplore.ieee.org/document/10664305)
 2. Federated Fine-Tuning of LLMs with Private Data - Flower Framework (https://learn.deeplearning.ai/courses/intro-to-federated-learning-c2/lesson/2/smarter-llms-with-private-data)
 3. Efficient Pruning for Machine Learning under Homomorphic Encryption (https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption)
